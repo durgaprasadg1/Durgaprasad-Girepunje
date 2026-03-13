@@ -50,6 +50,7 @@ With a traditional engineering mindset and a forward-thinking approach, I aim to
 - Habitory encourages users to stay disciplined by providing clear visibility into their progress and streak consistency. It transforms vague goals into measurable actions, improves accountability, and helps users develop sustainable routines. By combining structured tracking with meaningful analytics, the platform supports long-term personal growth and productivity improvement.
   
 **Link:** [Habitory](https://habitory.vercel.app/)
+
 ---
 
 ## 📬 Contact
