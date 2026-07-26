@@ -1,72 +1,133 @@
-# Durgaprasad Girepunje
-**B.Tech (CE - SE) Student | Vishwakarma Institute Of Technology, Pune | Expected Graduation: 2028**
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2E86FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Durgaprasad+Girepunje;B.Tech+CE+(Software+Engineering)+%40+VIT+Pune;Full+Stack+Developer+%7C+DSA+Enthusiast;Building+things+that+actually+solve+problems." alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad-girepunje-72a553331)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E86FF?style=for-the-badge&logo=vercel&logoColor=white)](https://durgaprasad-girepunje.vercel.app)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgaprasadgirepunje@gmail.com)
+
+</div>
 
 ---
 
-## 👋 About Me 
-Hi! I'm Durgaprasad Girepunje, currently pursuing a Bachelor of Technology in Computer Engineering with a specialization in Software Engineering.
-I am passionate about coding, problem-solving, and building real-world applications which actually solves the real world problems. I enjoy learning new technologies, contributing to projects,forming the projects and sharpening my skills by working on challenging problems.
-With a traditional engineering mindset and a forward-thinking approach, I aim to create solutions that are not only functional but also reliable, scalable, and impactful.
+### 👋 About Me
+
+I'm a Computer Engineering (Software Engineering) student at **Vishwakarma Institute of Technology, Pune**, graduating 2028. I like building full-stack products end-to-end — from spotting a real, annoying, everyday problem to shipping something people can actually click on and use.
+
+- 🔭 Currently building **full-stack web apps** with the MERN stack and Next.js
+- 🌱 Sharpening **DSA** and exploring **AWS Cloud**
+- 💡 I care about products solving *real* problems, not just tech for its own sake
+- 📍 Based in Pune, India
 
 ---
 
-## 🛠️ Skills
+### 🛠️ Tech Stack
 
-- **Programming Languages:**  Java ,JavaScript, Python , C
-- **Web Development:** Next.js, MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- **Interests:** Full Stack Development , Cloud Computing , Data Structures And Algorithm
+<div align="center">
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-## 📚 Education
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Degree:** B.Tech in Computer Engineering (Software Engineering)
-- **Institution:** Vishwakarma Institute Of Technology , Pune
-- **Year:** 2024 - 2028 (Expected)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-## 💼 Projects
-
-*1. MessMate  (Oct'25 - Dec'25)*
-- Managing daily mess operations is chaotic for both students and mess owners. Students struggle to discover nearby messes, stay informed about daily menus, compare food quality, and make timely payments. On the other hand, mess owners face difficulties in tracking regular monthly students, managing daily orders, handling reviews, and calculating profits.The lack of a centralized system leads to poor communication, manual record-keeping, delayed coordination, and inefficient operations for both parties.
-- To address these challenges, I designed and developed MessMate, a full-stack web application that acts as a centralized platform for students and mess owners.Students can discover nearby messes, view daily menus, book meals, submit reviews, and make payments seamlessly. Mess owners get access to a dedicated dashboard where they can manage mess listings, update menus, track daily and monthly customers, monitor profits, and handle bookings efficiently.The platform also includes real-time notifications, automated receipt and invoice generation, and analytics to simplify decision-making and improve transparency.
-- MessMate significantly reduces manual coordination and operational overhead for mess owners while improving convenience and awareness for students. It enhances transparency in payments, builds trust through reviews and analytics, and enables smoother communication between both parties. Overall, the system streamlines mess management, improves decision-making, and delivers a more reliable and efficient dining experience.
-  
-**Link:** [Messmate](https://messmate-sandy.vercel.app/)
-
-
- *2. Lost-N-Found for VIT, Pune  (Dec'25 - Dec'25)*
-- There was no centralized or reliable system within the VIT community for reporting and recovering lost items. Information was scattered across WhatsApp groups and physical notice boards, which were often cluttered, unstructured, and easy to miss. This made communication between people who lost items and those who found them inefficient and unreliable. As a result, many items were delayed in being returned—or permanently lost. Additionally, individuals who found and returned items rarely received proper recognition or credit for their honesty.
-- I designed and developed a web-based Lost & Found platform tailored specifically for the VIT community. The application allows users to report lost and found items by creating detailed listings with descriptions, images, locations, and contact information. Users can browse, search, and filter items based on category, date, and location to quickly find relevant matches.A notification system alerts users when new listings match their criteria, improving recovery chances. An admin panel ensures platform integrity by moderating listings, while a dedicated credit system highlights and acknowledges individuals who return lost items—encouraging ethical behavior and community trust.
-- The platform significantly improves coordination and communication within the campus, increasing the success rate of item recovery. It reduces dependency on disorganized communication channels, saves time for both owners and finders, and fosters a stronger sense of responsibility and honesty among students. By recognizing contributors, it also promotes positive community engagement and trust.I designed and developed a web-based Lost & Found platform tailored specifically for the VIT community. The application allows users to report lost and found items by creating detailed listings with descriptions, images, locations, and contact information. Users can browse, search, and filter items based on category, date, and location to quickly find relevant matches.A notification system alerts users when new listings match their criteria, improving recovery chances. An admin panel ensures platform integrity by moderating listings, while a dedicated credit system highlights and acknowledges individuals who return lost items—encouraging ethical behavior and community trust.
-  
-**Link:** [L-N-F](https://lost-n-found-five.vercel.app/)
-  
-
- *3. Habitory - Ai Coordinated Habit Tracker  (Jan'26 - Feb'26)*
-- Many students and working professionals struggle to maintain consistency in their daily habits due to a lack of structured tracking and meaningful feedback. Most traditional methods like notebooks or simple checklist apps fail to provide long-term insights, progress visualization, or motivation through measurable goals. Without clear tracking and accountability, habits often break within a few weeks, making personal growth inconsistent and unstructured.
-- I designed and developed Habitory, a full-stack web-based habit tracking platform that helps users build discipline through structured monitoring and visual progress insights. The application allows users to create, manage, and track daily habits while setting monthly goals for accountability. A dynamic dashboard provides real-time statistics, completion percentages, and performance summaries. The system ensures smooth state management, clean UI interactions, and persistent data storage, offering users a reliable and motivating environment to build long-term consistency.
-- Habitory encourages users to stay disciplined by providing clear visibility into their progress and streak consistency. It transforms vague goals into measurable actions, improves accountability, and helps users develop sustainable routines. By combining structured tracking with meaningful analytics, the platform supports long-term personal growth and productivity improvement.
-  
-**Link:** [Habitory](https://habitory.vercel.app/)
+</div>
 
 ---
 
-## 📬 Contact
+### 📊 GitHub Stats
 
-- **Email:** [durgaprasadgirepunje@gmail.com](mailto:durgaprasadgirepunje@gmail.com)
-- **LinkedIn:** [Durgaprasad Girepunje](https://www.linkedin.com/in/durgaprasad-girepunje-72a553331)
-- **GitHub:** [Durgaprasad Girepunje](https://github.com/durgaprasadg1)
+<div align="center">
 
----
-## 🚀 Future Goals
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=durgaprasadg1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasadg1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-- Explore research and development in Software Engineering and Technologies
-- Build scalable web applications which really helps
-- Contribute to open-source projects
-- Pursue internships and collaborative opportunities
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=durgaprasadg1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-*Feel free to connect or collaborate!*
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🍽️ [MessMate](https://messmate-sandy.vercel.app/)**
+
+Mess management was chaos — students couldn't find menus or pay easily, owners couldn't track customers or profits. Built a full-stack platform with student-side booking/reviews/payments and an owner dashboard with analytics, invoicing, and real-time notifications.
+
+`MERN` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+**🔍 [Lost-N-Found (VIT Pune)](https://lost-n-found-five.vercel.app/)**
+
+Lost items at campus were tracked over scattered WhatsApp groups and notice boards. Built a centralized platform with searchable listings, match notifications, admin moderation, and a credit system that rewards honest finders.
+
+`MERN` `Next.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📈 [Habitory — AI Habit Tracker](https://habitory.vercel.app/)**
+
+Habit-tracking apps rarely give real feedback or insight, so habits break within weeks. Built a full-stack tracker with a live dashboard — completion %, streaks, and monthly goal analytics — to make progress visible and measurable.
+
+`MERN` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+**📊 [viz-Smith](https://github.com/durgaprasadg1/viz-Smith)**
+
+Manual data visualization is tedious and error-prone. Built a tool that takes raw data and turns it into clean, ready-to-use visualizations without the manual grind.
+
+`JavaScript`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/durgaprasadg1?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+
+---
+
+### 🎯 What's Next
+
+- 🔬 Diving deeper into Software Engineering research & scalable system design
+- 🌐 Contributing to open-source projects
+- 💼 Looking for internships & collaborative opportunities
+
+---
+
+<div align="center">
+
+📫 **Let's connect** — always up for a good conversation about code, product ideas, or a challenging bug.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad-girepunje-72a553331)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:durgaprasadgirepunje@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://durgaprasad-girepunje.vercel.app)
+
+![Profile Views](https://komarev.com/ghpvc/?username=durgaprasadg1&color=2E86FF&style=flat-square&label=Profile+Views)
+
+</div>
