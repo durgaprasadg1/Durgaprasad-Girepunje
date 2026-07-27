@@ -69,7 +69,6 @@ I'm a Computer Engineering (Software Engineering) student at **Vishwakarma Insti
 
 Mess management was chaos — students couldn't find menus or pay easily, owners couldn't track customers or profits. Built a full-stack platform with student-side booking/reviews/payments and an owner dashboard with analytics, invoicing, and real-time notifications.
 
-`MERN` `Next.js`
 
 </td>
 <td width="50%" valign="top">
@@ -78,7 +77,6 @@ Mess management was chaos — students couldn't find menus or pay easily, owners
 
 Lost items at campus were tracked over scattered WhatsApp groups and notice boards. Built a centralized platform with searchable listings, match notifications, admin moderation, and a credit system that rewards honest finders.
 
-`MERN` `Next.js`
 
 </td>
 </tr>
@@ -89,7 +87,6 @@ Lost items at campus were tracked over scattered WhatsApp groups and notice boar
 
 Habit-tracking apps rarely give real feedback or insight, so habits break within weeks. Built a full-stack tracker with a live dashboard — completion %, streaks, and monthly goal analytics — to make progress visible and measurable.
 
-`MERN` `Next.js`
 
 </td>
 <td width="50%" valign="top">
@@ -98,7 +95,7 @@ Habit-tracking apps rarely give real feedback or insight, so habits break within
 
 Manual data visualization is tedious and error-prone. Built a tool that takes raw data and turns it into clean, ready-to-use visualizations without the manual grind.
 
-`JavaScript`
+
 
 </td>
 </tr>
