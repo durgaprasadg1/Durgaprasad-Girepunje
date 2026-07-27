@@ -12,14 +12,14 @@
 
 ---
 
-### 👋 About Me
+###  About Me
 
 I'm a Computer Engineering (Software Engineering) student at **Vishwakarma Institute of Technology, Pune**, graduating 2028. I like building full-stack products end-to-end — from spotting a real, annoying, everyday problem to shipping something people can actually click on and use.
 
-- 🔭 Currently building **full-stack web apps** with the MERN stack and Next.js
-- 🌱 Sharpening **DSA** and exploring **AWS Cloud**
-- 💡 I care about products solving *real* problems, not just tech for its own sake
-- 📍 Based in Pune, India
+-  Currently building **full-stack web apps** with the MERN stack and Next.js
+-  Sharpening **DSA** and exploring **AWS Cloud**
+-  I care about products solving *real* problems, not just tech for its own sake
+-  Based in Pune, India
 
 ---
 
@@ -57,12 +57,12 @@ I'm a Computer Engineering (Software Engineering) student at **Vishwakarma Insti
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=durgaprasadg1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasadg1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=durgaprasadg1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgaprasadg1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgaprasadg1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
@@ -70,13 +70,13 @@ I'm a Computer Engineering (Software Engineering) student at **Vishwakarma Insti
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🍽️ [MessMate](https://messmate-sandy.vercel.app/)**
+** [MessMate](https://mess-mate-pi.vercel.app/)**
 
 Mess management was chaos — students couldn't find menus or pay easily, owners couldn't track customers or profits. Built a full-stack platform with student-side booking/reviews/payments and an owner dashboard with analytics, invoicing, and real-time notifications.
 
@@ -84,7 +84,7 @@ Mess management was chaos — students couldn't find menus or pay easily, owners
 </td>
 <td width="50%" valign="top">
 
-**🔍 [Lost-N-Found (VIT Pune)](https://lost-n-found-five.vercel.app/)**
+** [Lost-N-Found (VIT Pune)](https://lost-n-found-five.vercel.app/)**
 
 Lost items at campus were tracked over scattered WhatsApp groups and notice boards. Built a centralized platform with searchable listings, match notifications, admin moderation, and a credit system that rewards honest finders.
 
@@ -94,7 +94,7 @@ Lost items at campus were tracked over scattered WhatsApp groups and notice boar
 <tr>
 <td width="50%" valign="top">
 
-**📈 [Habitory — AI Habit Tracker](https://habitory.vercel.app/)**
+** [Habitory — AI Habit Tracker](https://habitory.vercel.app/)**
 
 Habit-tracking apps rarely give real feedback or insight, so habits break within weeks. Built a full-stack tracker with a live dashboard — completion %, streaks, and monthly goal analytics — to make progress visible and measurable.
 
@@ -102,7 +102,7 @@ Habit-tracking apps rarely give real feedback or insight, so habits break within
 </td>
 <td width="50%" valign="top">
 
-**📊 [viz-Smith](https://github.com/durgaprasadg1/viz-Smith)**
+** [viz-Smith](https://vizsmith-ai.vercel.app/)**
 
 Manual data visualization is tedious and error-prone. Built a tool that takes raw data and turns it into clean, ready-to-use visualizations without the manual grind.
 
@@ -120,19 +120,19 @@ Manual data visualization is tedious and error-prone. Built a tool that takes ra
 
 ---
 
-### 🎯 What's Next
+### What's Next
 
-- 🔬 Diving deeper into Software Engineering research & scalable system design
-- 🌐 Contributing to open-source projects
-- 💼 Looking for internships & collaborative opportunities
+-  Diving deeper into Software Engineering research & scalable system design
+-  Contributing to open-source projects
+-  Looking for internships & collaborative opportunities
 
 ---
 
 <div align="center">
 
-📫 **Let's connect** — always up for a good conversation about code, product ideas, or a challenging bug.
+ **Let's connect** — always up for a good conversation about code, product ideas, or a challenging bug.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad-girepunje-72a553331)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad-girepunje-97257b423)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:durgaprasadgirepunje@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://durgaprasad-girepunje.vercel.app)
 
