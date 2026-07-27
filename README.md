@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad-girepunje-72a553331)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgaprasad-girepunje-97257b423)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E86FF?style=for-the-badge&logo=vercel&logoColor=white)](https://durgaprasad-girepunje.vercel.app)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durgaprasadgirepunje@gmail.com)
 
